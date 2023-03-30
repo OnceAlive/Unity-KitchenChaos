@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9D161B86-72FE-7B72-7BC4-B1BCFCE7264E}</ProjectGuid>
+    <ProjectGuid>{F419EF95-DB0F-CC73-D15B-0066187FB3B3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>com.unity.cinemachine.editor</AssemblyName>
@@ -815,27 +815,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Cinemachine.csproj">
-      <Project>{54EF22DB-3D01-8BC0-9EB7-6CFF87E279F9}</Project>
+      <Project>{09055A3C-99F4-97B6-F123-E07229E22328}</Project>
       <Name>Cinemachine</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.csproj">
-      <Project>{2EED1D97-A9B3-2AC1-1350-4D124A8803A3}</Project>
+      <Project>{B2836688-C6CC-A503-623B-37691669907F}</Project>
       <Name>Unity.Timeline</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.Editor.csproj">
-      <Project>{7FB6A87F-985A-06FA-A777-E907C14FF235}</Project>
+      <Project>{8216D8B7-4B22-C136-977A-0F71CAD47CB7}</Project>
       <Name>Unity.Timeline.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.InputSystem.csproj">
-      <Project>{20D1DD99-01FE-557A-0B75-6F3574C4846F}</Project>
+      <Project>{E0BBCBAA-4ED0-830E-BEAD-34A32050F7D1}</Project>
       <Name>Unity.InputSystem</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{4E3E2F12-79FD-A2C8-D36C-90021AE4C012}</Project>
+      <Project>{CC946403-95DA-CCF6-AFF1-08357C07CA90}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{97D095D4-396A-155E-DD07-E80F43D85969}</Project>
+      <Project>{6CB8F814-4715-F5F0-9B19-3050A79631D9}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>

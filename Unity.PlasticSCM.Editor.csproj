@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FFBBE6D6-263E-46C2-78A0-71CC584ACD0E}</ProjectGuid>
+    <ProjectGuid>{4A3CD7E9-743E-0888-EB44-9B5C2FF2F834}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.PlasticSCM.Editor</AssemblyName>
@@ -1035,11 +1035,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{4E3E2F12-79FD-A2C8-D36C-90021AE4C012}</Project>
+      <Project>{CC946403-95DA-CCF6-AFF1-08357C07CA90}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{97D095D4-396A-155E-DD07-E80F43D85969}</Project>
+      <Project>{6CB8F814-4715-F5F0-9B19-3050A79631D9}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>
