@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028326, g: 0.22571333, b: 0.30692202, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028352, g: 0.22571376, b: 0.30692244, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -814,6 +814,12 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -9120730222614313395, guid: df731c4a35d204872b1ed8298c65fff1,
+        type: 3}
+      propertyPath: kitchenObjectSO
+      value: 
+      objectReference: {fileID: 11400000, guid: 10a4d13073a2dab4fa0176661c79c62d,
+        type: 2}
     - target: {fileID: 1716735392587183302, guid: df731c4a35d204872b1ed8298c65fff1,
         type: 3}
       propertyPath: m_Name
@@ -1037,6 +1043,12 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -9120730222614313395, guid: df731c4a35d204872b1ed8298c65fff1,
+        type: 3}
+      propertyPath: tomatoPrefab
+      value: 
+      objectReference: {fileID: 5971460432665979178, guid: e512757c71e8c9f45b2187fe10348ce0,
+        type: 3}
     - target: {fileID: 1716735392587183302, guid: df731c4a35d204872b1ed8298c65fff1,
         type: 3}
       propertyPath: m_Name
