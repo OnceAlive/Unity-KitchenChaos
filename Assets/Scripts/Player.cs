@@ -24,7 +24,6 @@ public class Player : MonoBehaviour
     private void Start()
     {
         gameInput.OnInteractAction += GameInput_OnInteractAction;
-        
     }
 
     private void Awake()
