@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{A26CACCC-4251-C33E-B474-4C086AF498CC}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ClearCounter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameInput.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/KitchenObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/KitchenObjectSO.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player.cs" Line="8" Column="56" />
+      <File FileName="Assets/Scripts/PlayerAnimator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SelectedCounterVisual.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity-KitchenChaos" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Player.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3a16921f-f7d4-4df5-81db-65c1a4fba14c" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
